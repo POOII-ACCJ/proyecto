@@ -1,4 +1,5 @@
 # Proyecto
+![C/C++ CI](https://github.com/POOII-ACCJ/proyecto/workflows/C/C++%20CI/badge.svg)
 
 ## Dependencias
 
